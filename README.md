@@ -7,5 +7,7 @@ Order amount, Table number (1/2/3…/7), Time slot (11:00-12:00, 12:00-13:00, �
 •	Showing Occupancy View
 
 •	Total collected Amount from all the customers
+
 •	Find that customer who spent maximum for providing Gift for that day
+
 •	Printing Customers details
